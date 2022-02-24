@@ -1,0 +1,9 @@
+t和n可采用默认值。
+
+l和d按需求进行设置。
+
+number of planted instances：设置成t的值
+
+Identify Mode: 选择OOPS
+
+Mutate Mode: 选择0 to d
