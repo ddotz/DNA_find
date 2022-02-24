@@ -16,7 +16,7 @@ def get_data(path):
     return  data_char_1d, data_char_2d
 
 if __name__ == '__main__':
-    path = 'C:\\Users\\DELL\\Desktop\DIR\\随机数据生成器0.3\\data.txt'
+    path = './随机数据生成器0.3/data.txt'
     data_1d, data_2d = get_data(path)
     print (data_1d)
     print (data_2d)
